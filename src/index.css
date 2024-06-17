@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: "Overpass", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /*
+  background-color: #f8f9fa;
+    background-attachment: fixed;
+  */
+  background-image: url("./images/height_map_16_upscaled_2.png"),
+    linear-gradient(#f8f9fa, #e9ecef);
+
+  background-position: center;
+  /*background-repeat: no-repeat;*/
+}
+a {
+  text-decoration: none;
+}

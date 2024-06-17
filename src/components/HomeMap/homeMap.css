@@ -1,0 +1,10 @@
+.homeMap {
+  width: 100%;
+  padding: 50px 0 50px 0;
+}
+.homeMap img {
+  margin: auto;
+  display: block;
+  width: 60% !important;
+  height: 36.78% !important;
+}

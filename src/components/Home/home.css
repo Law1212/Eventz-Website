@@ -1,0 +1,7 @@
+.event-calender-container {
+  display: grid;
+  grid-template-columns: 25% 75%;
+  border-top: 3px solid #0c0d02;
+  border-bottom: 3px solid #0c0d02;
+  background-color: #ced4da;
+}

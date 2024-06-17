@@ -1,0 +1,28 @@
+.footer {
+  background-color: #0c0d02;
+  color: #fff;
+  padding: 20px 0px 20px 0px;
+  text-align: center;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-top: 5%;
+}
+.grid-item {
+  padding: 20px;
+}
+.grid-item-right {
+  text-align: right;
+}
+.grid-item-left {
+  text-align: left;
+}
+.grid-item a {
+  text-decoration: none;
+  color: white !important;
+}
+.grid-item p {
+  margin: auto;
+}

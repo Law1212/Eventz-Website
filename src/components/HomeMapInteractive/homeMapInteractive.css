@@ -1,0 +1,29 @@
+.homeMapInteractive {
+  height: 800px;
+  margin: 0px 0 150px 0;
+  border-top: 1px solid #0c0d02;
+  border-bottom: 1px solid #0c0d02;
+}
+/* css to customize Leaflet default styles  */
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  font-family: "Overpass", sans-serif !important;
+  border: 1px solid #fbdb99;
+  text-align: center !important;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.4) !important;
+}
+
+.popup-content {
+  display: flex; /* Use flexbox */
+  align-items: center; /* Center items vertically */
+}
+
+.popupImg {
+  height: 50px; /* Fill out the entire height of the container */
+  width: auto; /* Maintain aspect ratio */
+}
+
+.popup-text {
+  margin-left: 10px; /* Add space between image and text */
+  /* Additional styling for the text if needed */
+}
