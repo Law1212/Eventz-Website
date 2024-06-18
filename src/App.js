@@ -16,15 +16,11 @@ import RegisterProfile from './RegisterProfile';
 import CreateTeam from './components/CreateTeam/CreateTeam';
 import TeamPage from './components/TeamPage/TeamPage';
 import Impressium from './components/Imressium/Impressium';
+import apiKey from './appApi';
 
-const app = firebase.initializeApp({
-  apiKey: "AIzaSyCUz58w2qWFtFrNido-kZ_bQ_gMvBvr2EI",
-  authDomain: "dogtagclone.firebaseapp.com",
-  projectId: "dogtagclone",
-  storageBucket: "dogtagclone.appspot.com",
-  messagingSenderId: "1068781460353",
-  appId: "1:1068781460353:web:2c8dabc61f7ecc8d59a680"
-})
+const app = firebase.initializeApp(
+  apiKey
+)
 
 const auth = firebase.auth();
 const firestore = firebase.firestore();
