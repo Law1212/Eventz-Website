@@ -13,6 +13,7 @@ Eventz-Website is a web application for organizing events. Users can sign in wit
 - [Vite](https://vitejs.dev/)
 - [Firebase](https://firebase.google.com/)
 - [Material-UI](https://mui.com/)
+- [Leaflet](https://leafletjs.com/)
 
 ## Disclaimer
 This project is still under development and some features may be incomplete. CSS styling and error handling are yet to be fully implemented.
