@@ -18,9 +18,13 @@ Eventz-Website is a web application for organizing events. Users can sign in wit
 This project is still under development and some features may be incomplete. CSS styling and error handling are yet to be fully implemented.
 
 ## Preview pictures
+1.
 ![localhost_5173_](https://github.com/Law1212/Eventz-Website/assets/62355783/6d114c6d-9892-4ef6-81a2-7b7b88adc4f1)
+2.
 ![localhost_5173_createEvent](https://github.com/Law1212/Eventz-Website/assets/62355783/a37cbd2d-395e-401c-b352-1b09a7458e20)
+3.
 ![localhost_5173_createEvent (1)](https://github.com/Law1212/Eventz-Website/assets/62355783/f5ca79cf-f799-41ed-a696-24c56b900df3)
+4.
 ![localhost_5173_createEvent (2)](https://github.com/Law1212/Eventz-Website/assets/62355783/d3e07293-3839-4f27-9529-61f65669ead3)
 
 ## Getting Started
